@@ -1,2 +1,15 @@
-# Flappy-Bird-master-pygame-
-basic flappy game built using pygame maodule.
+# Flappy Bird
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![Lines of code](https://img.shields.io/tokei/lines/github/Sagyam/Flappy-Bird?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sagyam/Flappy-Bird?style=for-the-badge)
+
+This is clone of original flappy bird written Python using pygame
+# Installation
+```
+pip install -r requirement.txt
+```
+
+# Usage
+```
+python app.py
+```
