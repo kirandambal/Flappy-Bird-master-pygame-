@@ -10,5 +10,5 @@ pip install -r requirement.txt
 
 # Usage
 ```
-python app.py
+python main.py
 ```
